@@ -1,2 +1,1 @@
-xt:
-  hello: test
+xt.hello= test
